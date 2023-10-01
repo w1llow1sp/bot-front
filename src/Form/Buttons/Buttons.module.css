@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.textSection {
+    margin: 0.3rem;
+}
+
+.header {
+    align-self: center;
+    text-align: center;
+
+    padding-bottom: 0.3rem;
+}
+
+.description {
+    align-self: center;
+    text-align: center;
+    color: darkgray;
+}
+
+.buttonSection {
+    margin-top: 5px;
+}
+
+.button {
+    margin: 5px;
+}
